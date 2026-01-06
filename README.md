@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building and deploying real-world projects using Cloud, DevOps, and automation tools.<br>🤝 I’m looking to collaborate on: DevOps projects, cloud infrastructure, CI/CD pipelines, and automation workflows.<br><br>🌱 I’m currently learning: AWS, Azure, Docker, Kubernetes, Linux, and DevOps automation.<br><br>💬 Ask me about: Cloud computing, DevOps fundamentals, CI/CD and Linux.
+🔭 I’m currently working on: Building and deploying real-world projects using Cloud, DevOps, and automation tools.<br><br>🤝 I’m looking to collaborate on: DevOps projects, cloud infrastructure, CI/CD pipelines, and automation workflows.<br><br>🌱 I’m currently learning: AWS, Azure, Docker, Kubernetes, Linux, and DevOps automation.<br><br>💬 Ask me about: Cloud computing, DevOps fundamentals, CI/CD and Linux.
 
 
 ## 🌐 Socials:
